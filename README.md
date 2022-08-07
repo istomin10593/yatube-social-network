@@ -76,4 +76,4 @@ Are you building  Microservices or Web Services?
 
 Do you think you might need a software engineer like me at your company? (with opportunity work remote or relocate) 👉 **[Welcome to my Linkedin](https://www.linkedin.com/in/artem-istomin-a5b192246)**!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/artem-istomin-a5b192246))/ "Artem Istomin LinkedIn") [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61426874095?text=I%27m%20looking%20for%20a%20software%20engineer%20like%20you)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/artem-istomin-a5b192246) [![Whatsapp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/79150063090) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/polosatiyman)
