@@ -30,6 +30,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '[::1]',
     'testserver',
+    'www.istomin10593.pythonanywhere.com',
+    'istomin10593.pythonanywhere.com',
 ]
 
 INTERNAL_IPS = [

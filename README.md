@@ -8,7 +8,7 @@
 - [Installation](#-installation)
 - [About Me](#-about-me)
 
-## 	&#9989; Overview 
+## &#9989; Overview
 
 Yatube is a social network where authors can share their thoughts and ideas. Create posts with pictures, put them in groups, follow your favorite authors and leave comments under your favorite posts.
 
