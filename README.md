@@ -1,5 +1,5 @@
 # Yatube Social Network
-<p align="center"><img src="https://github.com/istomin10593/yatube-social-network/blob/289dec4016d045b54c8f503942d3d324419f8d86/doc/home_page.jpg" width="1200px"></p>
+<p align="center"><img src="https://github.com/istomin10593/yatube-social-network/blob/289dec4016d045b54c8f503942d3d324419f8d86/doc/home_page_1.jpg" width="1200px"></p>
 
 ## 📖 Contents
 
