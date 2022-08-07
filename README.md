@@ -1,39 +1,33 @@
-## Улучшение проекта Yatube
+# Yatube Social Network
+<p align="center"><img src="https://github.com/istomin10593/yatube-social-network/blob/289dec4016d045b54c8f503942d3d324419f8d86/doc/home_page.jpg" width="1200px"></p>
 
 ## 📖 Contents
 
-- [Overview](#-overview-)
-  - [Features](#-how-powerful-your-social-dating-webapp-will-be-)
-- [Installation](#-installation-)
-- [License](#%EF%B8%8F-license-)
-- [About Me](#-author-)
-  - [Contact Me](#-contact-suggestion--feedback-)
-  - [Hire Me](#-hire-me-at-your-company-)
-  - [Offer me a cup of tea?](#-offer-me-a-cup-of-tea-or-tea-bags-)
+- [Overview](#-overview)
+  - [Features](#-features)
+- [Installation](#-installation)
+- [About Me](#-about-author)
+  - [Contact Me](#-contact-suggestion--feedback)
+  - [Hire Me](#-hire-me-at-your-company-?-)
 
-В проект добавлены кастомные страницы ошибок:
- - 404 page_not_found
- - 403 permission_denied_view
-Написан тест, проверяющий, что страница 404 отдает кастомный шаблон.
-С помощью sorl-thumbnail выведены иллюстрации к постам:
- - в шаблон главной страницы,
- - в шаблон профайла автора,
- - в шаблон страницы группы,
- - на отдельную страницу поста.
-Написаны тесты, которые проверяют:
-при выводе поста с картинкой изображение передаётся в словаре context
- - на главную страницу,
- - на страницу профайла,
- - на страницу группы,
- - на отдельную страницу поста;
-при отправке поста с картинкой через форму PostForm создаётся запись в базе данных;
+## 	&#9989; Overview 
 
-Написана система комментирования записей. На странице поста под текстом записи выводится форма для отправки комментария, а ниже — список комментариев. Комментировать могут только авторизованные пользователи. Работоспособность модуля протестирована.
+Yatube is a social network where authors can share their thoughts and ideas. Create posts with pictures, put them in groups, follow your favorite authors and leave comments under your favorite posts.
 
-Список постов на главной странице сайта хранится в кэше и обновляется раз в 20 секунд.
-Написан тест для проверки кеширования главной страницы. Логика теста: при удалении записи из базы, она остаётся в response.content главной страницы до тех пор, пока кэш не будет очищен принудительно.
+ **Yatube social network** is a web server based on a powerful modular OOP and Django framework which, contributes rapid development and clean, pragmatic design.
+It is designed with the KISS principle in mind and all source code can be easily and quickly read and understood. The design principle is DRY (Don't Repeat Yourself), aimed at reducing the repetition of information of all kinds (without code duplication), and the YAGNI principle, to avoid unused code/unnecessary functionality in the software.
 
-Проект реализован на Django Framework.
+The application is fully covered by Unit Tests.
+
+## &#9889; Features
+ - Сonvenient and compact news feed
+ - Create/edit posts with pictures
+ - Ability to put post in groups
+ - Detailed information for each post
+ - Add comments below posts
+ - Registration of new users
+ - Subscribe to favorite authors
+ - Author profiles with detailed statistics
 
 ## 🛠 Installation
 
@@ -69,11 +63,16 @@
 ```
   python manage.py runserver
 ```
+## About Author
+
+Designed & Coded with lots of ❤️ by **[Pierre-Henry Soria](https://ph7.me)**. A **SUPER Passionate** Belgian Software Engineer 🍫🍺
+
+[![@phenrysay][twitter-image]](https://twitter.com/phenrysay) [![pH-7][github-image]](https://github.com/pH-7) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X457W3L7DAPC6)
 
 ## 🤝 Hire Me At Your Company?
 
 Are you building  Microservices or Web Services?
 
-Do you think you might need a software engineer like me at your company? (with opportunity work remote or relocate) 👉 **[Welcome to my Linkedin](https://www.linkedin.com/in/artem-istomin-a5b192246)**!
+Do you think you might need a software engineer like me at your company? 👉 **[Welcome to my Linkedin](https://www.linkedin.com/in/artem-istomin-a5b192246)**!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/artem-istomin-a5b192246) [![Whatsapp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/79150063090) [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/polosatiyman)
