@@ -55,11 +55,34 @@ The application is fully covered by Unit Tests.
   pip install -r requirements.txt
 ```
 
+  * Migration:
 
-  * Run server and project:
+  
 
 ```
-  python manage.py runserver
+
+  python manage.py makemigrations
+
+```
+
+  
+
+```
+
+  python manage.py migrate
+
+```
+
+  
+
+* Run server and project:
+
+  
+
+```
+
+python manage.py runserver
+
 ```
 ## 	&#129299; About Me
 
