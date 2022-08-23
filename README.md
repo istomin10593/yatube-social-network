@@ -56,31 +56,24 @@ The application is fully covered by Unit Tests.
 ```
 
   * Migration:
-
   
 
 ```
-
   python manage.py makemigrations
 
 ```
 
-  
-
 ```
-
   python manage.py migrate
 
 ```
 
   
-
 * Run server and project:
 
   
 
 ```
-
 python manage.py runserver
 
 ```
